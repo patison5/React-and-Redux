@@ -20,10 +20,20 @@
   "homepage": "https://github.com/patison5/React-and-Redux#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "nodemon": "^1.18.9"
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "nodemon": "^1.18.9",
+    "react": "^16.7.0",
+    "react-hot-loader": "^4.6.3",
+    "webpack": "^4.28.3",
+    "webpack-dev-middleware": "^3.4.0",
+    "webpack-hot-middleware": "^2.24.3"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "react-dom": "^16.7.0"
   }
 }
